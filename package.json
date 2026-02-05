@@ -1,0 +1,31 @@
+{
+  "name": "vibes_backend",
+  "version": "1.0.0",
+  "description": "\"A wonderful app for vibes streaming service\"",
+  "keywords": [
+    "Vibes",
+    "Streaming",
+    "Music",
+    "Movies",
+    "Backend",
+    "Database"
+  ],
+  "homepage": "https://github.com/RafeAaron/vibes_backend#readme",
+  "bugs": {
+    "url": "https://github.com/RafeAaron/vibes_backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafeAaron/vibes_backend.git"
+  },
+  "license": "MIT",
+  "author": "\"Rafe Aaron\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "dependencies": {
+    "mysql2": "^3.16.3"
+  }
+}
